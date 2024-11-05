@@ -15,7 +15,10 @@
 ### Problem 2: Solving Linear Equations
 #### Solve a system of five linear equations with five unknowns using two different methods:
 #### •	Inverse Method: Using the matrix inverse to solve for the unknowns.
-#### •	Cramer's Rule: Applying determinants to solve the system.\
+#### •	Cramer's Rule: Applying determinants to solve the system.
+
+![problem2](https://github.com/user-attachments/assets/0756e832-6fd8-4f0b-b6cc-765228952aee)
+
 
 
 
