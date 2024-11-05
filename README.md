@@ -9,4 +9,6 @@
 
 ### Problem 1: Matrix Transpose Operations
 ##### •	Aside from the transpose command, there are two other operations that appears to do thesame. These are the operators ‘ (apostrophe after the variable) and .’ (a dot and apostrophe after thevariable). Determine the differences between these three operations by showing your program to the class
+![problem1](https://github.com/user-attachments/assets/f2d2bfe1-ae5a-44d4-b673-d4b9e98c78b6)
+
 
